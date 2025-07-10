@@ -1,8 +1,7 @@
 # 🏥 Nursing College Admission ChatbotFlow
 *A bilingual (Hindi-English) conversational flow designed for LiaPlus AI's Prompt Engineering Internship.*
 
-![Chatbot Flow Diagram](<img width="2209" height="3906" alt="chatbotflow" src="https://github.com/user-attachments/assets/3230d2a7-1893-437a-b087-d71d3bbffb2d" />
-) *(Replace with your actual diagram)*
+![Chatbot Flow Diagram](https://github.com/user-attachments/assets/3230d2a7-1893-437a-b087-d71d3bbffb2d)
 
 ## 📝 Assignment Overview
 - **Company**: LiaPlus AI
